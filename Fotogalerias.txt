@@ -1,0 +1,124 @@
+<html>
+<head>
+<Title>Fotos</Title>
+</head>
+<BODY BACKGROUND="fond.jpeg" TEXT="#FFFFFF">
+<style>
+body{
+margin:0;
+     font-family: sans-serif;
+     font-size:14px;
+}
+
+.menu-wrapper ul{
+padding: 0;
+list-style: none;
+}
+
+.principal-menu > li{
+display: inline-block;
+}
+.principal-menu > li > a{
+display: block;
+padding: 10px 5px;
+width: 90px;
+}
+
+li ul{
+ position: absolute;
+ display: none;
+}
+.sub-menu a{
+ display: block;
+ padding: 10px 5px;
+ width: 130px;
+}
+
+li:hover ul{
+ display:block;
+}
+
+.menu-wrapper, li lu{
+ background: #333;
+}
+
+.principal-menu{
+ width:412px;
+ margin:0 auto;
+}
+
+.principal-menu a{
+ color:#fff;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+.principal-menu li:hover{
+ background: #f75e25;
+ text-sadow:0 0 2px #000;
+}
+</style>
+</head>
+<body>
+
+<div class="menu-wrapper">
+    <ul class="principal-menu">
+
+           <li><a href="CEMNG DIONISIO DE HERRERA.html">Inicio</a></li>
+           <li><a href="#">Informacion</a>
+                  <ul class="sub-menu">
+                  <li><a href="Historia.html">Historia</a></li>
+                  <li><a href="Oferta Academica.html">Oferta Academica</a></li>
+            </ul>
+       </li>
+       <li><a>Portafolio</a>
+          <ul class="sub-menu">
+          <li><a href="Vida Estudiantil.html">Vida Estudiantil</a></li>
+          <li><a href="Fotogalerias.html">Fotogalerias</a></li>
+      </ul>
+      </li>
+       <li><a href="Contacto.html">Contacto</a></li></ul>
+</div>
+<CENTER>
+<IMG SRC="uno.jpg" width="250" height="250">
+<TD></TD><TD></TD><TD><IMG SRC="dos.jpeg" width="250" height="250"></TD><TD></TD>
+<TD></TD><TD><IMG SRC="ocho.JPG" width="250" height="250"></TD>
+<P>
+<IMG SRC="tres.jpeg" width="250" height="250">
+<TD></TD><TD><IMG SRC="cinco.jpeg" width="250" height="250"></TD>
+<IMG SRC="seis.jpeg" width="250" height="250">
+</HTML>
+
+<P>
+<TD></TD><TD><IMG SRC="siete.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="nueve.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="diez.jpeg" width="250" height="250"></TD>
+
+<P>
+<TD></TD><TD><IMG SRC="once.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="doce.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="trece.jpeg" width="250" height="250"></TD>
+
+<P>
+<TD></TD><TD><IMG SRC="cuatro.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="14.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="15.jpeg" width="250" height="250"></TD>
+
+<P>
+<TD></TD><TD><IMG SRC="16.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="17.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="18.jpeg" width="250" height="250"></TD>
+
+<P>
+<TD></TD><TD><IMG SRC="19.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="20.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="21.jpeg" width="250" height="250"></TD>
+
+<P>
+<TD></TD><TD><IMG SRC="22.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="23.jpeg" width="250" height="250"></TD>
+<TD></TD><TD><IMG SRC="24.jpeg" width="250" height="250"></TD>
+
+
+</CENTER>
+</html>
